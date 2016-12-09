@@ -13,4 +13,4 @@ Things I am learning include:
 
 [![GitHub video](http://img.youtube.com/vi/qwLDACQeWBI/0.jpg)](https://www.youtube.com/watch?v=qwLDACQeWBI)
 
-@kkousek Can you get the YouTube 
+@kkousek Can you get the YouTube image to work?
